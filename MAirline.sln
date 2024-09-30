@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAirline.TicketProcessing", "MAirline.TicketProcessing\MAirline.TicketProcessing.csproj", "{C7A00F6E-A144-478F-AD38-224D285FF5C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAirline.API", "MAirline.API\MAirline.API.csproj", "{D190F2CE-DBC6-4895-A7DD-9488CF962784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7A00F6E-A144-478F-AD38-224D285FF5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A00F6E-A144-478F-AD38-224D285FF5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A00F6E-A144-478F-AD38-224D285FF5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A00F6E-A144-478F-AD38-224D285FF5C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D190F2CE-DBC6-4895-A7DD-9488CF962784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D190F2CE-DBC6-4895-A7DD-9488CF962784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D190F2CE-DBC6-4895-A7DD-9488CF962784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D190F2CE-DBC6-4895-A7DD-9488CF962784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B33E5AE8-3942-490F-97F8-1385A2266BA5}
+	EndGlobalSection
+EndGlobal
